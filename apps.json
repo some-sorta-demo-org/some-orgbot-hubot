@@ -1,0 +1,7 @@
+{
+  "hello-node": {
+    "provider": "heroku",
+    "repository": "some-sorta-demo-org/hellonode",
+    "environments": ["staging"]
+  }
+}
